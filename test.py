@@ -1,5 +1,5 @@
 import os
-from customlibb import XmlExtarctor
+from sicrediextractors import XmlExtarctor
 
 
 curr_dir = os.getcwd()
