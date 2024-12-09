@@ -1,0 +1,1 @@
+customlibb @ git+https://github.com/dennosis/custom_lib_b.git

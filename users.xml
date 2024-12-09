@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User id="1">
+        <Name>João Silva</Name>
+        <Phone>+55-11-98765-4321</Phone>
+        <Email>joao.silva@example.com</Email>
+        <Address>Rua das Flores, 123, São Paulo, SP, Brasil</Address>
+        <DateOfBirth>1990-05-15</DateOfBirth>
+    </User>
+    <User id="2">
+        <Name>Maria Oliveira</Name>
+        <Phone>+55-21-99876-5432</Phone>
+        <Email>maria.oliveira@example.com</Email>
+        <Address>Avenida Central, 456, Rio de Janeiro, RJ, Brasil</Address>
+        <DateOfBirth>1985-08-20</DateOfBirth>
+    </User>
+</Users>

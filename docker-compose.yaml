@@ -1,0 +1,17 @@
+services:
+  python:
+    hostname: test-lib-python
+    restart: unless-stopped
+    build:
+      context: .
+    image: test-lib-parts/python:latest
+    networks:
+      - main
+    volumes:
+      - ./:/home/application/app
+    stdin_open: true
+    tty: true
+
+networks:
+  main:
+    driver: bridge
